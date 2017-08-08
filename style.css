@@ -1,6 +1,11 @@
 /* CSS is awesome */
 
+body {
+  padding: 5% 20%;
+}
+
 .agency-logo {
   float: right;
-  width: 20%;
+  width: 10%;
+  margin: 0px 10px;
 }
